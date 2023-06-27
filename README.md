@@ -2,8 +2,6 @@
 
 This repository contains a cool landing page that can be used as a template for creating visually appealing and engaging websites.
 
-![Cool Landing Page](screenshot.png)
-
 ## Description
 
 The cool landing page is designed to captivate visitors with its modern and stylish layout. It incorporates sleek animations, bold typography, and vibrant colors to create an impressive first impression. The page is fully responsive, ensuring a seamless experience across different devices and screen sizes.
